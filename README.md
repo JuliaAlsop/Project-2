@@ -10,9 +10,9 @@ Select a topic
 
 Find a data set 
 
-	[Century of data](https://www.kaggle.com/NUFORC/ufo-sightings/metadata)
+	[Century of data] (https://www.kaggle.com/NUFORC/ufo-sightings/metadata)
 	
-	[April sightings 2020](http://www.nuforc.org/webreports/ndxe202004.html) 
+	[April sightings 2020] (http://www.nuforc.org/webreports/ndxe202004.html) 
 
 Find inspiration 
 
@@ -26,17 +26,17 @@ Find inspiration
 
 Sketch ideal visuals 
 
-	[Bubble Map](https://www.d3-graph-gallery.com/bubblemap.html) to view concentration levels of sightings (Leaflet)
+	[Bubble Map] (https://www.d3-graph-gallery.com/bubblemap.html) to view concentration levels of sightings (Leaflet)
 	
 			
-	[Lollipop Chart](https://www.d3-graph-gallery.com/lollipop.html) to view the most common shapes of a sighting 
+	[Lollipop Chart] (https://www.d3-graph-gallery.com/lollipop.html) to view the most common shapes of a sighting 
 		
 		
-	[Violin Chart](https://www.d3-graph-gallery.com/violin.html) to view the bins of duration for a sighting
+	[Violin Chart] (https://www.d3-graph-gallery.com/violin.html) to view the bins of duration for a sighting
 	
 		
 		
-	[Word Cloud](https://www.d3-graph-gallery.com/graph/wordcloud_size.html) of submitted summaries for each sighting (D3)
+	[Word Cloud] (https://www.d3-graph-gallery.com/graph/wordcloud_size.html) of submitted summaries for each sighting (D3)
 	
 		
 	
@@ -55,9 +55,9 @@ Brief articulation of chosen topic and rationale
 
 A link to data set and screenshot of the metadata if it exists 
 
-	[Century of data](https://www.kaggle.com/NUFORC/ufo-sightings/metadata)
+	[Century of data] (https://www.kaggle.com/NUFORC/ufo-sightings/metadata)
 	
-	[April sightings 2020](http://www.nuforc.org/webreports/ndxe202004.html) 
+	[April sightings 2020] (http://www.nuforc.org/webreports/ndxe202004.html) 
 	
 	Screenshot of metadata unavailable currently due to maintenance updates
 	
@@ -75,7 +75,7 @@ A sketch of the final design
 
 Still need to include this part for the proposal completion
 
-Link to the primary [github repo](https://github.com/JuliaAlsop/Project-2.git)
+Link to the primary [github repo] (https://github.com/JuliaAlsop/Project-2.git)
 
 	
 Project description:
