@@ -40,7 +40,7 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 	
 		
 	
-- []Create a 1 page proposal 
+- [x]Create a 1 page proposal 
 
 	Located Below 
 	
@@ -61,15 +61,15 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 	
 	
 - [x] Screenshots of relevant, inspiring visualizations:
-![Bubble Map](/images/Bubble Map ex.png)
-![Lolipop Chart](/images/Lolipop Chart ex.png)
+<img src="/Images/Bubble Map ex.png" alt="Bubble Map ex"/>
+<img src="/Images/Lollipop Chart ex.png" alt="Lollipop Chart ex"/>
 <img src="/Images/Violin Chart ex.png" alt="Violin Chart ex"/>
-<img src="/Images/Word Cloud ex.png" alt="Word Cloud ex"/>
+<img src="/Images/Word ex.png" alt="Word ex"/>
 
 
 
 
-- [] A sketch of the final design 
+- [x] A sketch of the final design 
 
 Still need to include this part for the proposal completion
 
