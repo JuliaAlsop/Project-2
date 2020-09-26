@@ -4,9 +4,7 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 
 **Day 1** <img src="/Images/Alien 1.png" alt="Alien 1"/>
 
- - [x] Select a topic 
-
-	UFO Sightings 
+ - [x] Select a topic  - UFO Sightings 
 
 - [x] Find a data set 
 
@@ -40,7 +38,7 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 	
 		
 	
-- [x]Create a 1 page proposal - Located Below 
+- [x] Create a 1 page proposal - Located Below 
 	
 
 **Day 2** :alien: :alien:
@@ -59,10 +57,8 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 	
 	
 - [x] Screenshots of relevant, inspiring visualizations:
-<img src="/Images/Bubble Map ex.png" alt="Bubble Map ex"/>
-<img src="/Images/Lollipop Chart ex.png" alt="Lollipop Chart ex"/>
-<img src="/Images/Violin Chart ex.png" alt="Violin Chart ex"/>
-<img src="/Images/Word Chart ex.png" alt="Word Chart ex"/>
+<img src="/Images/Bubble Map ex.png" alt="Bubble Map ex"/>              <img src="/Images/Lollipop Chart ex.png" alt="Lollipop Chart ex"/>
+<img src="/Images/Violin Chart ex.png" alt="Violin Chart ex"/>          <img src="/Images/Word Chart ex.png" alt="Word Chart ex"/>
 
 
 
