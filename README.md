@@ -55,6 +55,7 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 	
 	
 - [x] Screenshots of relevant, inspiring visualizations:
+
 <img src="/Images/Bubble Map ex.png" alt="Bubble Map ex"/>   <img src="/Images/Violin Chart ex.png" alt="Violin Chart ex"/>           
 <img src="/Images/Lollipop Chart ex.png" alt="Lollipop Chart ex"/>   <img src="/Images/Word Chart ex.png" alt="Word Chart ex"/>
 
