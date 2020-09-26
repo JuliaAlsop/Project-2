@@ -4,17 +4,17 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 
 **Day 1** <img src="/Images/Alien 1.png" alt="Alien 1"/>
 
-Select a topic 
+ - [x] Select a topic 
 
 	UFO Sightings 
 
-Find a data set 
+- [x] Find a data set 
 
 	[Century of data](https://www.kaggle.com/NUFORC/ufo-sightings/metadata)
 	
 	[April sightings 2020](http://www.nuforc.org/webreports/ndxe202004.html) 
 
-Find inspiration 
+- [x] Find inspiration 
 
 	Do certain areas have higher concentrations of sightings?
 	
@@ -24,45 +24,43 @@ Find inspiration
 	
 	Is there a higher concentration of sightings at night?
 
-Sketch ideal visuals 
+- [x] Sketch ideal visuals 
 
-	[Bubble Map] (https://www.d3-graph-gallery.com/bubblemap.html) to view concentration levels of sightings (Leaflet)
+	[Bubble Map](https://www.d3-graph-gallery.com/bubblemap.html) to view concentration levels of sightings (Leaflet)
 	
 			
-	[Lollipop Chart] (https://www.d3-graph-gallery.com/lollipop.html) to view the most common shapes of a sighting 
+	[Lollipop Chart](https://www.d3-graph-gallery.com/lollipop.html) to view the most common shapes of a sighting 
 		
 		
-	[Violin Chart] (https://www.d3-graph-gallery.com/violin.html) to view the bins of duration for a sighting
+	[Violin Chart](https://www.d3-graph-gallery.com/violin.html) to view the bins of duration for a sighting
 	
 		
 		
-	[Word Cloud] (https://www.d3-graph-gallery.com/graph/wordcloud_size.html) of submitted summaries for each sighting (D3)
+	[Word Cloud](https://www.d3-graph-gallery.com/graph/wordcloud_size.html) of submitted summaries for each sighting (D3)
 	
 		
 	
-Create a 1 page proposal 
+- [ ]Create a 1 page proposal 
 
 	Located Below 
 	
 
 **Day 2** :alien: :alien:
 
-Brief articulation of chosen topic and rationale 
+- [x] Brief articulation of chosen topic and rationale 
 
-	UFO sightings were chosen as our data set in honor of Halloween and all of the spooky mysteries UFO data has to offer. 
+	UFO sightings were chosen as our data set in honor of Halloween and all of the spooky mysteries UFO data has to offer. In creating the visualizations for this data we hope to gather unearthly insights into these occurrences.
+
+- [x] A link to data set and screenshot of the metadata if it exists 
+
+	[Century of data](https://www.kaggle.com/NUFORC/ufo-sightings/metadata)
 	
-	In creating the visualizations for this data we hope to gather unearthly insights into these occurrences.
-
-A link to data set and screenshot of the metadata if it exists 
-
-	[Century of data] (https://www.kaggle.com/NUFORC/ufo-sightings/metadata)
-	
-	[April sightings 2020] (http://www.nuforc.org/webreports/ndxe202004.html) 
+	[April sightings 2020](http://www.nuforc.org/webreports/ndxe202004.html) 
 	
 	Screenshot of metadata unavailable currently due to maintenance updates
 	
 	
-Screenshots of relevant, inspiring visualizations:
+- [x] Screenshots of relevant, inspiring visualizations:
 ![Bubble Map](/images/Bubble Map ex.png)
 ![Lolipop Chart](/images/Lolipop Chart ex.png)
 <img src="/Images/Violin Chart ex.png" alt="Violin Chart ex"/>
@@ -71,14 +69,14 @@ Screenshots of relevant, inspiring visualizations:
 
 
 
-A sketch of the final design 
+- [ ] A sketch of the final design 
 
 Still need to include this part for the proposal completion
 
-Link to the primary [GitHub Repo](https://github.com/JuliaAlsop/Project-2.git)
+- [x] Link to the primary [GitHub Repo](https://github.com/JuliaAlsop/Project-2.git)
 
 	
-Project description:
+- [x] Project description:
 
 Still need to include this part for the proposal completion
 
