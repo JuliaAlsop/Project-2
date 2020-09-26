@@ -2,7 +2,7 @@
 
 Google Link to updated [proposal:](https://docs.google.com/document/d/14rFwvynL-YJ0MM7xedddwkO3Q1a9UyU8ihTxuZySc38/edit)
 
-**Day 1** ![Alien 1](/images/Alien 1.png)
+**Day 1** <img src="/Images/Alien 1.png" alt="Alien 1"/>
 
 Select a topic 
 
@@ -47,7 +47,7 @@ Create a 1 page proposal
 	Located Below 
 	
 
-**Day 2** ![Alien 2](/images/Alien 2.png)
+**Day 2** :alien: :alien:
 
 Brief articulation of chosen topic and rationale 
 
