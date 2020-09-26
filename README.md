@@ -1,6 +1,6 @@
 # Project-2 Proposal Documentation
 
-Google Link to updated [proposal:](https://docs.google.com/document/d/14rFwvynL-YJ0MM7xedddwkO3Q1a9UyU8ihTxuZySc38/edit)
+Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-YJ0MM7xedddwkO3Q1a9UyU8ihTxuZySc38/edit)
 
 **Day 1** <img src="/Images/Alien 1.png" alt="Alien 1"/>
 
@@ -10,9 +10,9 @@ Select a topic
 
 Find a data set 
 
-	https://www.kaggle.com/NUFORC/ufo-sightings/metadata (Century of data)
+	[Century of data](https://www.kaggle.com/NUFORC/ufo-sightings/metadata)
 	
-	http://www.nuforc.org/webreports/ndxe202004.html (April sightings 2020)
+	[April sightings 2020](http://www.nuforc.org/webreports/ndxe202004.html) 
 
 Find inspiration 
 
@@ -26,21 +26,19 @@ Find inspiration
 
 Sketch ideal visuals 
 
-	Bubble Map to view concentration levels of sightings (Leaflet)
+	[Bubble Map](https://www.d3-graph-gallery.com/bubblemap.html) to view concentration levels of sightings (Leaflet)
 	
-		https://www.d3-graph-gallery.com/bubblemap.html
+			
+	[Lollipop Chart](https://www.d3-graph-gallery.com/lollipop.html) to view the most common shapes of a sighting 
 		
-	Lollipop Chart to view the most common shapes of a sighting 
-	
-		https://www.d3-graph-gallery.com/lollipop.html
 		
-	Violin Chart to view the bins of duration for a sighting
+	[Violin Chart](https://www.d3-graph-gallery.com/violin.html) to view the bins of duration for a sighting
 	
-		https://www.d3-graph-gallery.com/violin.html
 		
-	Word Cloud of submitted summaries for each sighting (D3)
+		
+	[Word Cloud](https://www.d3-graph-gallery.com/graph/wordcloud_size.html) of submitted summaries for each sighting (D3)
 	
-		https://www.d3-graph-gallery.com/graph/wordcloud_size.html
+		
 	
 Create a 1 page proposal 
 
@@ -57,9 +55,9 @@ Brief articulation of chosen topic and rationale
 
 A link to data set and screenshot of the metadata if it exists 
 
-	https://www.kaggle.com/NUFORC/ufo-sightings/metadata (Century of data)
+	[Century of data](https://www.kaggle.com/NUFORC/ufo-sightings/metadata)
 	
-	http://www.nuforc.org/webreports/ndxe202004.html (April sightings 2020)
+	[April sightings 2020](http://www.nuforc.org/webreports/ndxe202004.html) 
 	
 	Screenshot of metadata unavailable currently due to maintenance updates
 	
@@ -77,10 +75,9 @@ A sketch of the final design
 
 Still need to include this part for the proposal completion
 
-Link to the primary github repo:
+Link to the primary [github repo](https://github.com/JuliaAlsop/Project-2.git)
 
-	https://github.com/JuliaAlsop/Project-2.git
-
+	
 Project description:
 
 Still need to include this part for the proposal completion
