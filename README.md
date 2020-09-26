@@ -40,7 +40,7 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 	
 		
 	
-- [ ]Create a 1 page proposal 
+- []Create a 1 page proposal 
 
 	Located Below 
 	
@@ -69,7 +69,7 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 
 
 
-- [ ] A sketch of the final design 
+- [] A sketch of the final design 
 
 Still need to include this part for the proposal completion
 
