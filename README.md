@@ -75,7 +75,7 @@ A sketch of the final design
 
 Still need to include this part for the proposal completion
 
-Link to the primary [github repo] (https://github.com/JuliaAlsop/Project-2.git)
+Link to the primary [GitHub Repo](https://github.com/JuliaAlsop/Project-2.git)
 
 	
 Project description:
