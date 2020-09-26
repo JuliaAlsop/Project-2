@@ -40,9 +40,7 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 	
 		
 	
-- [x]Create a 1 page proposal 
-
-	Located Below 
+- [x]Create a 1 page proposal - Located Below 
 	
 
 **Day 2** :alien: :alien:
@@ -64,7 +62,7 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 <img src="/Images/Bubble Map ex.png" alt="Bubble Map ex"/>
 <img src="/Images/Lollipop Chart ex.png" alt="Lollipop Chart ex"/>
 <img src="/Images/Violin Chart ex.png" alt="Violin Chart ex"/>
-<img src="/Images/Word ex.png" alt="Word ex"/>
+<img src="/Images/Word Chart ex.png" alt="Word Chart ex"/>
 
 
 
