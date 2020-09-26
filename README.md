@@ -1,10 +1,8 @@
 # Project-2 Proposal Documentation
 
-Google Link to updated proposal:
+Google Link to updated [proposal:](https://docs.google.com/document/d/14rFwvynL-YJ0MM7xedddwkO3Q1a9UyU8ihTxuZySc38/edit)
 
-https://docs.google.com/document/d/14rFwvynL-YJ0MM7xedddwkO3Q1a9UyU8ihTxuZySc38/edit
-
-Day 1 <img src="/Images/Alien 1.png" alt="Alien 1"/>
+**Day 1** ![Alien 1](/images/Alien 1.png)
 
 Select a topic 
 
@@ -49,7 +47,7 @@ Create a 1 page proposal
 	Located Below 
 	
 
-Day 2 <img src="/Images/Alien 2.png" alt="Alien 2"/>
+**Day 2** ![Alien 2](/images/Alien 2.png)
 
 Brief articulation of chosen topic and rationale 
 
@@ -67,8 +65,8 @@ A link to data set and screenshot of the metadata if it exists
 	
 	
 Screenshots of relevant, inspiring visualizations:
-<img src="/Images/Bubble Map ex.png" alt="Bubble Map ex"/>
-<img src="/Images/Lollipop CHart ex.png" alt="Lollipop Chart ex"/>
+![Bubble Map](/images/Bubble Map ex.png)
+![Lolipop Chart](/images/Lolipop Chart ex.png)
 <img src="/Images/Violin Chart ex.png" alt="Violin Chart ex"/>
 <img src="/Images/Word Cloud ex.png" alt="Word Cloud ex"/>
 
