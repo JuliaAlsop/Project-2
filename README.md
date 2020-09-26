@@ -10,9 +10,9 @@ Select a topic
 
 Find a data set 
 
-	[Century of data] (https://www.kaggle.com/NUFORC/ufo-sightings/metadata)
+	[Century of data](https://www.kaggle.com/NUFORC/ufo-sightings/metadata)
 	
-	[April sightings 2020] (http://www.nuforc.org/webreports/ndxe202004.html) 
+	[April sightings 2020](http://www.nuforc.org/webreports/ndxe202004.html) 
 
 Find inspiration 
 
