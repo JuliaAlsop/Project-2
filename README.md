@@ -4,7 +4,7 @@ Google Link to updated proposal:
 
 https://docs.google.com/document/d/14rFwvynL-YJ0MM7xedddwkO3Q1a9UyU8ihTxuZySc38/edit
 
-Day 1 
+Day 1 ![alt Alien 1](https://github.com/[JuliaAlsop]/[Project-2]/blob/[master]/image.jpg?raw=true)
 
 Select a topic 
 
