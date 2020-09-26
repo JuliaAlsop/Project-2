@@ -49,7 +49,7 @@ Create a 1 page proposal
 	Located Below 
 	
 
-Day 2 
+Day 2 <img src="/Images/Alien 2.png" alt="Alien 2"/>
 
 Brief articulation of chosen topic and rationale 
 
@@ -67,8 +67,10 @@ A link to data set and screenshot of the metadata if it exists
 	
 	
 Screenshots of relevant, inspiring visualizations:
-
-
+<img src="/Images/Bubble Map ex.png" alt="Bubble Map ex"/>
+<img src="/Images/Lollipop CHart ex.png" alt="Lollipop Chart ex"/>
+<img src="/Images/Violin Chart ex.png" alt="Violin Chart ex"/>
+<img src="/Images/Word Cloud ex.png" alt="Word Cloud ex"/>
 
 
 
