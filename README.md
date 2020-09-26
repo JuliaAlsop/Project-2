@@ -1,4 +1,4 @@
-# Project-2 Proposal Documentation
+# Project-2 Proposal Documentation :alien:
 
 Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-YJ0MM7xedddwkO3Q1a9UyU8ihTxuZySc38/edit)
 
@@ -8,9 +8,7 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 
 - [x] Find a data set 
 
-	[Century of data](https://www.kaggle.com/NUFORC/ufo-sightings/metadata)
-	
-	[April sightings 2020](http://www.nuforc.org/webreports/ndxe202004.html) 
+	[Century of data](https://www.kaggle.com/NUFORC/ufo-sightings/metadata) & [April sightings 2020](http://www.nuforc.org/webreports/ndxe202004.html) 
 
 - [x] Find inspiration 
 
@@ -57,8 +55,8 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 	
 	
 - [x] Screenshots of relevant, inspiring visualizations:
-<img src="/Images/Bubble Map ex.png" alt="Bubble Map ex"/>              <img src="/Images/Lollipop Chart ex.png" alt="Lollipop Chart ex"/>
-<img src="/Images/Violin Chart ex.png" alt="Violin Chart ex"/>          <img src="/Images/Word Chart ex.png" alt="Word Chart ex"/>
+<img src="/Images/Bubble Map ex.png" alt="Bubble Map ex"/>   <img src="/Images/Violin Chart ex.png" alt="Violin Chart ex"/>           
+<img src="/Images/Lollipop Chart ex.png" alt="Lollipop Chart ex"/>   <img src="/Images/Word Chart ex.png" alt="Word Chart ex"/>
 
 
 
