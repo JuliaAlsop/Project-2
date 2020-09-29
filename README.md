@@ -51,7 +51,7 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 	
 	[April sightings 2020](http://www.nuforc.org/webreports/ndxe202004.html) 
 	
-	Screenshot of metadata unavailable currently due to maintenance updates
+	<img src="/Images/screenshot_metadata.png" alt="Screenshot of metadata"/>   
 	
 	
 - [x] Screenshots of relevant, inspiring visualizations:
@@ -64,16 +64,45 @@ Google Link to updated [proposal](https://docs.google.com/document/d/14rFwvynL-Y
 
 - [x] A sketch of the final design 
 
-Still need to include this part for the proposal completion
+Main web page with navbar (possible separate pages for charts as well)
+
+Main page with a filter for selected dates or locations with a collective chart change 
+
+	Main Chart on top of screen - Map of locations (Bubble)
+	
+		Secondary chart below or beside Bubble: Amchart pictorial 
+		
+			(This chart will show how many sightings per period selected)
+			
+	Filtered charts per date or location: 	
+	
+		Violin, Lollipop, Word Cloud 
 
 - [x] Link to the primary [GitHub Repo](https://github.com/JuliaAlsop/Project-2.git)
 
 	
 - [x] Project description:
 
-Still need to include this part for the proposal completion
+Collection of data and layout of project design: Group Effort 
 
-Tell a story….provide users an interactive means to explore data 
+Project Presentation: Group Effort
+
+Website design layout: Group Effort
+
+Data chart visualization design: Group Effort
+
+In order to provide our users an interactive representation of data, we are implementing various techniques for user ease including: 
+
+-The use of a bubble map to pinpoint direct locations of occurrences
+
+-A lollipop chart to clearly visualize the different amount of shapes seen
+
+-A word cloud in order to see the most reported words used to describe the UFO’s
+
+-A violin chart to visualize any time period correlations or groupings 
+
+-And finally an amchart to visualize the data with a new template never used before
+
 
 (give link in presentation for people to follow along and try themselves)
 
