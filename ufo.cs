@@ -1,4 +1,4 @@
-Date / Time,City,State,Shape,Duration,Summary,Posted
+Datetime,City,State,Shape,Duration,Summary,Posted
 4/30/2020 0:00,Thibodaux,LA,Light,5,"14 Objects in a row, one behind each other and watch one by one disappear. ((Starlink satellites?))",6/25/2020
 4/30/2020 23:49,Saint Petersburg,FL,Other,7 minutes,There were three dots in a straight line slowly moving for a while then boom vanish!,6/25/2020
 4/30/2020 22:43,Edgewood,WA,Unknown,15-20 seconds,"Location of sighting: Edgewood, WA Date: Thursday April 30th Time: 10:43 PM Weather conditions: clear and other stars visible On Thurs",6/25/2020
